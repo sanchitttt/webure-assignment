@@ -1,6 +1,3 @@
-import { motion, AnimatePresence } from 'framer-motion';
-import { useState, useEffect } from 'react';
-import { useMotionValue, useTransform } from 'framer-motion';
 import Marquee from 'react-fast-marquee';
 
 const slides = [

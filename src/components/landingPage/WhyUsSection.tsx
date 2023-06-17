@@ -9,7 +9,7 @@ function WhyUsSection() {
         <div className='flex items-start mt-[60px] justify-between '>
 
           <div className='flex flex-col gap-[60px]'>
-            <div className='flex flex-col max-w-[427px]'>
+            <div className='flex flex-col max-w-[427px] orangeHoverUnderline'>
               <div className='flex gap-[15px]'>
                 <img src='https://i.ibb.co/Bc8GZM5/startegy-1.png' alt='img' width='50px' height='50px' />
                 <div className='font-bold text-[26px] leading-[57px] text-sans text-grey1'>Innovative ideas</div>
@@ -17,7 +17,7 @@ function WhyUsSection() {
               <div className='text-sans font-semibold text-[20px] leading-[31px] text-grey3'>We build electrified relations between products and humans</div>
             </div>
             <div className='flex flex-col'>
-              <div className='flex flex-col max-w-[427px]'>
+              <div className='flex flex-col max-w-[427px] orangeHoverUnderline'>
                 <div className='flex gap-[15px]'>
                   <img src='https://i.ibb.co/C8p2bfC/startegy-1-1.png' alt='img' width='50px' height='50px' />
                   <div className='font-bold text-[26px] leading-[57px] text-sans text-grey1'>Effective solutions</div>
@@ -27,7 +27,7 @@ function WhyUsSection() {
             </div>
 
             <div className='flex flex-col'>
-              <div className='flex flex-col max-w-[427px]'>
+              <div className='flex flex-col max-w-[427px] orangeHoverUnderline'>
                 <div className='flex gap-[15px]'>
                   <img src='https://i.ibb.co/C8p2bfC/startegy-1-1.png' alt='img' width='50px' height='50px' />
                   <div className='font-bold text-[26px] leading-[57px] text-sans text-grey1'>Perfect strategy</div>
